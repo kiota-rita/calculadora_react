@@ -1,6 +1,7 @@
 ### Projeto realizado durante o curso React Profissional do instrutor Bruno Nardini.
 
-## Mais informações sobre o curso:
+### Mais informações sobre o curso:
 Acesse aqui: [React Profissional](https://www.udemy.com/course/react-redux-profissional/)
 
-## Projeto no CodePen:
+### Projeto no CodePen:
+Acesse aqui: [Calculadora React](https://codepen.io/kiota-rita/pen/mdwGMxo)
